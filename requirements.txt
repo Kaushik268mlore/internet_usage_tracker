@@ -1,0 +1,7 @@
+tk
+Pillow
+TIME-python
+messagebox
+psutil
+sockets
+Image
